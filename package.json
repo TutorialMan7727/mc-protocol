@@ -1,0 +1,17 @@
+{
+  "name": "mc-protocal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@types/varint": "^6.0.3",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "varint": "^6.0.0"
+  }
+}
