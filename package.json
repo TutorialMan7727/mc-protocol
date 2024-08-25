@@ -1,5 +1,5 @@
 {
-  "name": "mc-protocol",
+  "name": "@tutorialman7727/mc-protocol",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
